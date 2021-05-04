@@ -1,0 +1,2 @@
+# javaCamp
+Simple Java Projects
